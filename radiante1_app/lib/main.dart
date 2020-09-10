@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'file:///D:/radiante/radiante1_app/lib/UI/home_page/screen.dart';
-import 'file:///D:/radiante/radiante1_app/lib/UI/splash_screen/screen.dart';
 
 void main() {
   runApp(MyApp());
