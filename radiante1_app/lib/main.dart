@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
-import 'file:///D:/radiante/radiante1_app/lib/UI/home_page/screen.dart';
+import 'package:radiante1_app/UI/home_page/screen.dart';
+import 'package:radiante1_app/UI/home_page/widgets/home_page_body.dart';
+import 'package:radiante1_app/UI/home_page/widgets/top_silder.dart';
+import 'package:radiante1_app/UI/home_page/widgets/offers_slider.dart';
 
 void main() {
   runApp(MyApp());
